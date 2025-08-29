@@ -56,7 +56,7 @@ The dashboard is designed to help HR professionals and decision-makers understan
 ## Key Metrics
 ```
 Number of employees: 1470
-Employees who left: 237
+Attrition : 237
 Attrition rate: 16.12%
 Average of total working years: 11.28
 ```
