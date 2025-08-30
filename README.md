@@ -73,7 +73,7 @@ Average of total working years: 11.28
 
 Power BI – for data cleaning, modeling, and visualization
 
-CSV Dataset – ibm-hr-analytics dataset (https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+CSV Dataset – ibm-hr-analytics dataset
 
 ## 📂 How to Use
 
